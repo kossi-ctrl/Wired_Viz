@@ -23,3 +23,7 @@ Elise Matta
 Orphée Bonnardeau 
 
 Kossi Zangbe 
+
+# License 
+
+[Centre d'Etudes Supérieures de la Renaissance, Université de Tours](www.cesr-tours.fr), Juin 2026 par Elise, Orphée, Kossi sous licence 
