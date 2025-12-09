@@ -1,2 +1,2 @@
 # Wired_Viz
-Create a website to analyze Magazine Wired USA covers. 
+Create a website to analyze data from Magazine Wired USA. 
